@@ -5,7 +5,7 @@ Spatial Domain
       i. Point Processing
 
       
-           1. Intensity (Gray Level Transformation)
+          1. Intensity (Gray Level Transformation)
 
                  1. Basic Intensity Transformation
                        1. Linear Function
@@ -29,7 +29,7 @@ Spatial Domain
             1. Histogram
             2. Histogram Equalization
 
-        3. Arithmetic Operations
+         3. Arithmetic Operations
            1. Anding 
            2. Oring 
            3. Addition 
@@ -47,5 +47,7 @@ ii. Neighborhood Processing
        1. Min
        2. Max
        3. Median
+       
    ii. Sharpening Spatial Filter
+   
        1.LAPLACIAN

@@ -5,26 +5,26 @@ Spatial Domain
 
       i. Point Processing
 
-# 1. Intensity (Gray Level Transformation)
+           # 1.Intensity (Gray Level Transformation)
 
-1. Basic Intensity Transformation
-    1. Linear Function
-        1. Negative
+                 1. Basic Intensity Transformation
+                      1. Linear Function
+                        1. Negative
 
-    2. Logarithmic Function 
-       1. Log
-       2. Inverse Log
+                 2. Logarithmic Function 
+                      1. Log
+                      2. Inverse Log
 
-    3. Power Law Function 
-       1. Root
-       2. Power
+                 3. Power Law Function 
+                      1. Root
+                      2. Power
          
-2. Piecewise Linear Transformation
-    1. Contrast Streching
-    2. Thersholding
-    3. Gray Level Slicing
-    4. bit Plane Slicing
-    
+                 2. Piecewise Linear Transformation
+                      1. Contrast Streching
+                      2. Thersholding
+                      3. Gray Level Slicing
+                      4. bit Plane Slicing
+                    
 # 2. Histogram Processing
 1. Histogram
 2. Histogram Equalization

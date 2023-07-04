@@ -47,9 +47,9 @@ ii. Neighborhood Processing
          2. Average Weighted Filter
 
      2. Non-Linear
-       1. Min
-       2. Max
-       3. Median
+        1. Min
+        2. Max
+        3. Median
        
    ii. Sharpening Spatial Filter
    

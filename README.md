@@ -3,7 +3,6 @@
 ### Filters implemented in the project
 Spatial Domain
 
-
       i. Point Processing
 
       

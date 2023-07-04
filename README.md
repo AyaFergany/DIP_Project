@@ -8,7 +8,7 @@ Spatial Domain
           1. Intensity (Gray Level Transformation)
 
                  1. Basic Intensity Transformation
-                       1. Linear Function
+                      1. Linear Function
                          1. Negative
 
                       2. Logarithmic Function 
@@ -24,10 +24,12 @@ Spatial Domain
                       2. Thersholding
                       3. Gray Level Slicing
                       4. bit Plane Slicing
+
                     
          2. Histogram Processing
             1. Histogram
             2. Histogram Equalization
+
 
          3. Arithmetic Operations
            1. Anding 

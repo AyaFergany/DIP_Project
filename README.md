@@ -40,17 +40,17 @@ Spatial Domain
 
 ii. Neighborhood Processing
 
-   i. Smoothing Spatial Filter
+      i. Smoothing Spatial Filter
 
-      1. Linear
-         1. Average Filter
-         2. Average Weighted Filter
+          1. Linear
+             1. Average Filter
+             2. Average Weighted Filter
 
-     2. Non-Linear
-        1. Min
-        2. Max
-        3. Median
+          2. Non-Linear
+             1. Min
+             2. Max
+             3. Median
        
-   ii. Sharpening Spatial Filter
+      ii. Sharpening Spatial Filter
    
-       1.LAPLACIAN
+             1.LAPLACIAN

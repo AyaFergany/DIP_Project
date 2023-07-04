@@ -3,6 +3,8 @@
 ### Filters implemented in the project
 Spatial Domain
       i. Point Processing
+
+      
            1. Intensity (Gray Level Transformation)
 
                  1. Basic Intensity Transformation
@@ -23,7 +25,7 @@ Spatial Domain
                       3. Gray Level Slicing
                       4. bit Plane Slicing
                     
-        2. Histogram Processing
+         2. Histogram Processing
             1. Histogram
             2. Histogram Equalization
 
@@ -35,7 +37,7 @@ Spatial Domain
 
 ii. Neighborhood Processing
 
-   1. Smoothing Spatial Filter
+   i. Smoothing Spatial Filter
 
       1. Linear
          1. Average Filter
@@ -45,5 +47,5 @@ ii. Neighborhood Processing
        1. Min
        2. Max
        3. Median
-     2. Sharpening Spatial Filter
+   ii. Sharpening Spatial Filter
        1.LAPLACIAN

@@ -18,8 +18,8 @@ Spatial Domain
     3. Power Law Function 
        1. Root
        2. Power
-       3. 
-# 2. Piecewise Linear Transformation
+         
+2. Piecewise Linear Transformation
     1. Contrast Streching
     2. Thersholding
     3. Gray Level Slicing

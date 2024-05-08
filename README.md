@@ -3,12 +3,11 @@
 ### Filters implemented in the project
 Spatial Domain
 
-      i. Point Processing
-
+   i. Point Processing
       
           1. Intensity (Gray Level Transformation)
 
-                 1. Basic Intensity Transformation
+                 1.1 Basic Intensity Transformation
                       1. Linear Function
                          1. Negative
 
@@ -20,7 +19,7 @@ Spatial Domain
                          1. Root
                          2. Power
           
-                2. Piecewise Linear Transformation
+                  1.2 Piecewise Linear Transformation
                       1. Contrast Streching
                       2. Thersholding
                       3. Gray Level Slicing
@@ -53,4 +52,4 @@ ii. Neighborhood Processing
        
       ii. Sharpening Spatial Filter
    
-             1.LAPLACIAN
+          1.LAPLACIAN
